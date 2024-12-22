@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bella\\source\\repos\\My Plugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAAFCA6-24AA-403D-9B6B-211138464310}|My Plugin\\My Plugin.csproj|c:\\users\\bella\\source\\repos\\my plugin\\my plugin\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAAFCA6-24AA-403D-9B6B-211138464310}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\My Plugin\\My Plugin\\Class1.cs",
+              "RelativeDocumentMoniker": "My Plugin\\Class1.cs",
+              "ToolTip": "C:\\Users\\bella\\source\\repos\\My Plugin\\My Plugin\\Class1.cs",
+              "RelativeToolTip": "My Plugin\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:08:49.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

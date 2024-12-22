@@ -1,0 +1,9 @@
+C:\Users\bella\source\repos\My Plugin\My Plugin\obj\Debug\My Plugin.csproj.AssemblyReference.cache
+C:\Users\bella\source\repos\My Plugin\My Plugin\obj\Debug\My Plugin.csproj.CoreCompileInputs.cache
+C:\Users\bella\source\repos\My Plugin\My Plugin\bin\Debug\My Plugin.dll
+C:\Users\bella\source\repos\My Plugin\My Plugin\bin\Debug\My Plugin.pdb
+C:\Users\bella\source\repos\My Plugin\My Plugin\bin\Debug\MyPluginFramework.dll
+C:\Users\bella\source\repos\My Plugin\My Plugin\bin\Debug\MyPluginFramework.pdb
+C:\Users\bella\source\repos\My Plugin\My Plugin\obj\Debug\My Plugin.csproj.Up2Date
+C:\Users\bella\source\repos\My Plugin\My Plugin\obj\Debug\My Plugin.dll
+C:\Users\bella\source\repos\My Plugin\My Plugin\obj\Debug\My Plugin.pdb
